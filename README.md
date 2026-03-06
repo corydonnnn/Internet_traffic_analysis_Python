@@ -25,8 +25,8 @@ The goal is to **clean the data, generate insights, and create reports and visua
 
 ## 📊 Skills Demonstrated
 
-Data cleaning and transformation (dropna, fillna, type conversion)
-Data aggregation and grouping (groupby, agg, pivot_table)
-Feature engineering (over-limit users)
-Reporting and visualization (matplotlib)
-Python project organization for reproducible analytics
+- Data cleaning and transformation (dropna, fillna, type conversion)
+- Data aggregation and grouping (groupby, agg, pivot_table)
+- Feature engineering (over-limit users)
+- Reporting and visualization (matplotlib)
+- Python project organization for reproducible analytics
