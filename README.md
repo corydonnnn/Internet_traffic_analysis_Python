@@ -3,6 +3,10 @@
 This project analyzes internet traffic data using Python to explore patterns, trends, and insights.  
 It demonstrates skills in data cleaning, aggregation, and reporting.
 
+## 📌 Project Overview
+This project analyzes internet traffic data from subscribers over three months (January–March).  
+The goal is to **clean the data, generate insights, and create reports and visualizations** using Python and pandas. 
+
 ## Project Goals
 - Clean and preprocess internet traffic data
 - Count subscribers by region
@@ -18,3 +22,11 @@ It demonstrates skills in data cleaning, aggregation, and reporting.
 6. **Traffic Extremes by Tariff Plans**
 7. **Analysis of Limit Exceedances**
 8. **Monthly Traffic Dynamics**
+
+##📊 Skills Demonstrated
+
+Data cleaning and transformation (dropna, fillna, type conversion)
+Data aggregation and grouping (groupby, agg, pivot_table)
+Feature engineering (over-limit users)
+Reporting and visualization (matplotlib)
+Python project organization for reproducible analytics
