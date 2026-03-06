@@ -1,0 +1,4 @@
+tariff_plan,min_traffic,max_traffic
+Premium,0.0,52.45
+Standard,0.0,28.75
+Unlimited,0.0,116.79https://github.com/corydonnnn/Internet_traffic_analysis_Python/tree/main/reports
