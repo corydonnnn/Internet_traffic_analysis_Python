@@ -30,3 +30,7 @@ The goal is to **clean the data, generate insights, and create reports and visua
 - Feature engineering (over-limit users)
 - Reporting and visualization (matplotlib)
 - Python project organization for reproducible analytics
+
+### Top 5 Regions by Average Traffic
+
+![Top Regions](images/top_regions.png)
